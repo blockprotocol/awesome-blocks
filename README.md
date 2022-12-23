@@ -38,12 +38,12 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 ### Users of blocks
 * Official [Þ docs] on [using blocks]
 
-### Block Developers
+### Block developers
 * Official [Þ docs] on [developing blocks]
 * Official [Þ specification]
 * Official [Þ developer blog posts] from HASH, the creators of the Block Protocol.
 
-### Block Embedders
+### Block embedders
 * Official [Þ docs] on [embedding blocks] within your application, and allowing users to
 
 ## Community
