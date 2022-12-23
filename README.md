@@ -1,27 +1,51 @@
-# Awesome HASH [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://hash.ai/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/b277e84b-2f91-437c-dedf-8c50bbc41e00/public" width="200" align="right" alt="HASH">](https://hash.ai/?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+[Block Protocol]: https://blockprotocol.org/?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root-inline_text
+[Þ Hub]: https://blockprotocol.org/hub?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
+[Þ Docs]: https://blockprotocol.org/docs?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
+[Þ Specification]: https://blockprotocol.org/docs/spec?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
+[Þ Discord]: https://blockprotocol.org/discord?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
+[using blocks]: https://blockprotocol.org/docs/using-blocks?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
+[developing blocks]: https://blockprotocol.org/docs/developing-blocks?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
+[embedding blocks]: https://blockprotocol.org/docs/embedding-blocks?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
+[Þ developer blog posts]: https://hash.dev/blog?tag=block-protocol&utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
 
-> A curated list of the best resources in the HASH ecosystem.
+[Þ Reddit]: https://www.reddit.com/r/hashintel/
+[Þ GitHub]: https://github.com/blockprotocol
+[view on GitHub]: https://github.com/blockprotocol/blockprotocol
+[GitHub repo]: https://github.com/blockprotocol/blockprotocol
+[Twitter]: https://twitter.com/blockprotocol
+[LinkedIn]: https://www.linkedin.com/company/block-protocol
 
-[HASH](https://github.com/hashintel/hash) is a powerful platform for knowledge management and decision-making. With it you can integrate and structure data, build block-based interfaces, and develop simulation models of your world.
+# Awesome Blocks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://static.blockprotocol.com/cdn-cgi/imagedelivery/EipKtqu98OotgfhvKf6Eew/a66d4d06-0036-4224-23ea-c27eac660500/public" width="200" align="right" alt="Block Protocol">](https://blockprotocol.org/?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root-header_logo)
+
+> A curated list of the best resources in the Block Protocol (**Þ**) ecosystem.
+
+The **[Block Protocol]** ([view on GitHub]) is an open standard for blocks <> embedding app communication.
+
+It includes the [Þ Specification], and [Þ Hub], which applications and their users can use to dynamically discover and embed public blocks on the fly.
 
 Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource. Please also note that this repository is *new* and will be expanded in due course.
 
 ## Contents
 
 * [Resources](#resources)
-    * [User Guides & Tutorials](#user-guides--tutorials)
-    * [Developers](#developers)
+    * [Users of blocks](#users-of-blocks)
+    * [Block developers](#block-developers)
+    * [Block embedders](#block-embedders)
 * [Community](#community)
 
 ## Resources
 
-### User Guides & Tutorials
-* Official [HASH user guide](https://hash.ai/docs?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
-* Official guide to [using HASH for simulation](https://hash.ai/docs/simulation?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+### Users of blocks
+* Official [Þ docs] on [using blocks]
 
-### Developers
-* Official [HASH developer site](https://hash.dev/?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
+### Block Developers
+* Official [Þ docs] on [developing blocks]
+* Official [Þ specification]
+* Official [Þ developer blog posts] from HASH, the creators of the Block Protocol.
+
+### Block Embedders
+* Official [Þ docs] on [embedding blocks] within your application, and allowing users to
 
 ## Community
-* Official [HASH Discord](https://hash.ai/discord?utm_medium=organic&utm_source=github_readme_awesomehash-repo_root)
-* Official [HASH Reddit](https://www.reddit.com/r/hashintel/)
+* Official [Þ Discord]
+* Official [Þ Reddit]
