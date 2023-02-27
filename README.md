@@ -9,6 +9,7 @@
 [Þ developer blog posts]: https://hash.dev/blog?tag=block-protocol&utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root
 [WordPress]: https://blockprotocol.org/wordpress?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root-inline_text
 [HASH]: https://hash.ai/platform/hash?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root-inline_text
+[environments under development]: https://blockprotocol.org/docs/using-blocks#coming-soon?utm_medium=organic&utm_source=github_readme_awesomeblocks-repo_root-inline_text
 
 [Þ Reddit]: https://www.reddit.com/r/hashintel/
 [Þ GitHub]: https://github.com/blockprotocol
@@ -39,7 +40,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 ## Environments
 * [WordPress]
 * [HASH]
-* List of further [environments under development](https://blockprotocol.org/docs/using-blocks#coming-soon)
+* List of further [environments under development]
 
 ## Resources
 
