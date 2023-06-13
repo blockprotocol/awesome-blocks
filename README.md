@@ -73,7 +73,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 ### Type System
 * Official [Type System npm package]
 * Official [Type System Rust crate] from which the npm package is compiled
-* [Turbine]: a community-developed experimental code generator for Block Prorotocol Graph Module types
+* [Turbine]: a community-developed experimental code generator for Block Protocol Graph Module types
 * [Turbine Transformer]: a community-developed utility that ingests Turbine output and supplements the HASH REST API with additional querying capabilities
 
 ## Community
