@@ -15,6 +15,13 @@
 [Þ GitHub]: https://github.com/blockprotocol
 [view on GitHub]: https://github.com/blockprotocol/blockprotocol
 [GitHub repo]: https://github.com/blockprotocol/blockprotocol
+[graph module package]: https://github.com/blockprotocol/blockprotocol/tree/main/libs/%40blockprotocol/graph
+[hook module package]: https://github.com/blockprotocol/blockprotocol/tree/main/libs/%40blockprotocol/hook
+[service module package]: https://github.com/blockprotocol/blockprotocol/tree/main/libs/%40blockprotocol/service
+[turbine]: https://github.com/blockprotocol/incubator/tree/main/libs/turbine
+[turbine transformer]: https://github.com/blockprotocol/incubator/tree/main/libs/turbine-transformer
+[type system npm package]: https://github.com/blockprotocol/blockprotocol/tree/main/libs/%40blockprotocol/type-system
+[type system rust crate]: https://github.com/blockprotocol/blockprotocol/tree/main/libs/%40blockprotocol/type-system/crate
 [Twitter]: https://twitter.com/blockprotocol
 [LinkedIn]: https://www.linkedin.com/company/block-protocol
 
@@ -32,9 +39,10 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 
 * [Environments](#environments)
 * [Resources](#resources)
-    * [Users of blocks](#users-of-blocks)
-    * [Block developers](#block-developers)
-    * [Block embedders](#block-embedders)
+    * [Using blocks](#using-blocks)
+    * [Developing blocks](#developing-blocks)
+    * [Embedding blocks](#embedding-blocks)
+* [Libraries](#libraries)
 * [Community](#community)
 
 ## Environments
@@ -44,16 +52,29 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 
 ## Resources
 
-### Users of blocks
+### Using blocks
 * Official [Þ docs] on [using blocks]
 
-### Block Developers
+### Developing blocks
 * Official [Þ docs] on [developing blocks]
 * Official [Þ specification]
 * Official [Þ developer blog posts] from HASH, the creators of the Block Protocol.
 
-### Block Embedders
-* Official [Þ docs] on [embedding blocks] within your application, and allowing users to
+### Embedding blocks
+* Official [Þ docs] on [embedding blocks] within your application
+
+## Libraries
+
+### Modules
+* Official [Graph Module package]
+* Official [Hook Module package]
+* Official [Service Module package]
+
+### Type System
+* Official [Type System npm package]
+* Official [Type System Rust crate] from which the npm package is compiled
+* [Turbine]: a community-developed experimental code generator for Block Protocol Graph Module types
+* [Turbine Transformer]: a community-developed utility that ingests Turbine output and supplements the HASH REST API with additional querying capabilities
 
 ## Community
 * Official [Þ Discord]
