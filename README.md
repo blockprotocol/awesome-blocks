@@ -74,7 +74,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 ### Type System
 * Official [Type System npm package]
 * Official [Type System Rust crate] from which the npm package is compiled
-* [Graph types]: A Python library to parse ontology schemas and validate entities based on that
+* [Graph types]: A Python library to parse ontology schemas and validate entities based on the generated Pydantic model
 * [Turbine]: a community-developed experimental code generator for Block Protocol Graph Module types
 * [Turbine Transformer]: a community-developed utility that ingests Turbine output and supplements the HASH REST API with additional querying capabilities
 
