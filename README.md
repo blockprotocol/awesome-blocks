@@ -16,6 +16,7 @@
 [view on GitHub]: https://github.com/blockprotocol/blockprotocol
 [GitHub repo]: https://github.com/blockprotocol/blockprotocol
 [graph module package]: https://github.com/blockprotocol/blockprotocol/tree/main/libs/%40blockprotocol/graph
+[graph types]: https://github.com/hashintel/hash/tree/main/libs/%40local/hash-graph-types
 [hook module package]: https://github.com/blockprotocol/blockprotocol/tree/main/libs/%40blockprotocol/hook
 [service module package]: https://github.com/blockprotocol/blockprotocol/tree/main/libs/%40blockprotocol/service
 [turbine]: https://github.com/blockprotocol/incubator/tree/main/libs/turbine
@@ -73,6 +74,7 @@ Read the [contribution guidelines](CONTRIBUTING.md) before submitting a resource
 ### Type System
 * Official [Type System npm package]
 * Official [Type System Rust crate] from which the npm package is compiled
+* [Graph types]: A Python library to parse ontology schemas and validate entities based on the generated Pydantic model
 * [Turbine]: a community-developed experimental code generator for Block Protocol Graph Module types
 * [Turbine Transformer]: a community-developed utility that ingests Turbine output and supplements the HASH REST API with additional querying capabilities
 
